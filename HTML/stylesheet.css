@@ -1,0 +1,46 @@
+.header-logo {
+    font-size: 25px;
+    background-color:blue;
+    color:white;
+    width: 600px;
+    text-align:center
+    }
+
+.mgr-10 {
+    margin-right:10px
+
+}
+
+.header-logo2{
+    font-size:20px;
+    background-color: red;
+    color:white;
+    width: 600px;
+    text-align:center;
+    margin-top:0px;
+
+}
+
+.border {
+    border:solid 5px skyblue;
+    width:560px;
+    height:300px;
+    margin: 5px 20px
+
+}
+
+.visit-time {
+    font-size:5px;
+    float:right;
+}
+
+.footer-logo {
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    width: 600px;
+    text-align: center;
+}
+.checkbox {
+    color: blue;
+}
